@@ -21,8 +21,8 @@ Una aplicación web simple para organizar juegos de Amigo Secreto de manera fác
   - Presentación clara de las asignaciones
   - Formato intuitivo: "Persona → Su amigo secreto"
 
-![Ejemplo de uso](assets/ejemplo-uso.png)
-<!-- PROMPT para esta imagen: "A screenshot mockup of a Secret Santa web application with a clean interface showing a list of participant names on the left and gift assignment results on the right, with a modern light interface and festive colors" -->
+![Ejemplo de uso](assets/image_fx_63.jpg)
+<!-- Ejemplo visual de la interfaz de usuario de la aplicación Amigo Secreto -->
 
 ## 💻 Conceptos de Programación Aplicados
 
@@ -33,8 +33,8 @@ Una aplicación web simple para organizar juegos de Amigo Secreto de manera fác
 - **Algoritmo de Selección Aleatoria**: Implementación de un sistema de sorteo justo
 - **Validaciones**: Control de casos límite y entradas incorrectas
 
-![Diagrama de flujo](assets/diagrama-flujo.png)
-<!-- PROMPT para esta imagen: "A flowchart diagram showing the logic of a Secret Santa assignment algorithm, with boxes for input validation, random assignment, preventing self-assignment, and displaying results, using a clean minimal design with blue and orange colors" -->
+![Diagrama de flujo](assets/image_fx_63.jpg)
+<!-- Ilustración conceptual del algoritmo de asignación de amigo secreto -->
 
 ## 🚀 Cómo Utilizar la Aplicación
 
@@ -51,8 +51,8 @@ Una aplicación web simple para organizar juegos de Amigo Secreto de manera fác
 3. **Limpiar y Reiniciar**:
    - Actualiza la página para comenzar un nuevo sorteo
 
-![Instrucciones de uso](assets/instrucciones.png)
-<!-- PROMPT para esta imagen: "A step-by-step tutorial illustration for a Secret Santa app showing three panels: 1) adding names, 2) clicking the draw button, and 3) viewing results, with simple numbered instructions and arrow connections" -->
+![Instrucciones de uso](assets/image_fx_63.jpg)
+<!-- Imagen representativa del proceso de intercambio de regalos -->
 
 ## 🧠 Desafíos de Programación Resueltos
 
