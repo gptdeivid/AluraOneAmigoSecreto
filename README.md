@@ -21,7 +21,7 @@ Una aplicación web simple para organizar juegos de Amigo Secreto de manera fác
   - Presentación clara de las asignaciones
   - Formato intuitivo: "Persona → Su amigo secreto"
 
-![Ejemplo de uso](assets/image_fx_63.jpg)
+![Ejemplo de uso]
 <!-- Ejemplo visual de la interfaz de usuario de la aplicación Amigo Secreto -->
 
 ## 💻 Conceptos de Programación Aplicados
@@ -33,7 +33,7 @@ Una aplicación web simple para organizar juegos de Amigo Secreto de manera fác
 - **Algoritmo de Selección Aleatoria**: Implementación de un sistema de sorteo justo
 - **Validaciones**: Control de casos límite y entradas incorrectas
 
-![Diagrama de flujo](assets/image_fx_63.jpg)
+![Diagrama de flujo]
 <!-- Ilustración conceptual del algoritmo de asignación de amigo secreto -->
 
 ## 🚀 Cómo Utilizar la Aplicación
@@ -51,7 +51,7 @@ Una aplicación web simple para organizar juegos de Amigo Secreto de manera fác
 3. **Limpiar y Reiniciar**:
    - Actualiza la página para comenzar un nuevo sorteo
 
-![Instrucciones de uso](assets/image_fx_63.jpg)
+![Instrucciones de uso]
 <!-- Imagen representativa del proceso de intercambio de regalos -->
 
 ## 🧠 Desafíos de Programación Resueltos
